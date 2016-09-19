@@ -1,5 +1,5 @@
 .header {
-    background-color: #E0FFE0;
+    background color: black;
 }
 
 h4 {
@@ -12,7 +12,7 @@ h4 {
     -moz-border-radius: 5;
     border-radius: 5px;
     font-family: Arial;
-    color: #ffffff;
+    color: black;
     font-size: 14px;
     font-weight: normal;
     background: #4caae8;
@@ -24,7 +24,7 @@ h4 {
 }
 
 .btn-talk:hover {
-    background: #4fbcff;
+    background-color: grey;
     text-decoration: none;
 }
 
