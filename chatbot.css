@@ -1,3 +1,9 @@
+body {
+  background-image: url(https://www.kix.in/images/2016/ozlo-cityscape.png);
+  background-size: 100%;
+}
+
+
 .header {
     background-color: black;
     font-family: 'Russo One', sans-serif;
@@ -15,6 +21,19 @@ h1 {
   font-weight: bolder;
 }
 
+p {
+  font-family: 'Patrick Hand SC', cursive;
+  color: black;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+div {
+  font-family: 'Patrick Hand SC', cursive;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
 .btn-talk {
     -webkit-border-radius: 5;
     -moz-border-radius: 5;
@@ -99,11 +118,10 @@ h1 {
     height: 450px;
     overflow: hidden;
     border: 0px solid;
-    font-sze: 16px;
+    font-size: 16px;
     font-weight: bold;
 }
 
-body {
-  background-image: url(http://i.imgur.com/sKV54PO.jpg);
-  background-size: 100%;
+button {
+    font-family: 'Patrick Hand SC', cursive;
 }
