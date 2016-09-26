@@ -1,5 +1,12 @@
 var Errors = 0;
 
+function enter(event) {
+  var x = event.keyCode;
+  console.log(x);
+  if (x == 13) {
+    Speak();
+  }
+}
 
 function Speak(){
 //echo input
